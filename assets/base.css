@@ -2993,3 +2993,7 @@ details-disclosure > details {
     outline: transparent solid 1px;
   }
 }
+
+body{
+  background: red;;
+}
